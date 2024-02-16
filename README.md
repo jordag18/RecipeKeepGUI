@@ -1,16 +1,8 @@
 # recipe_keep_project
 
-A new Flutter project.
+This is a Flutter Project that I created for CS4381:Cross-Platform Application Development.
+The program is a Recipe storage and organizer that allows the user to create and saves recipes.
+Saved recipes are displayed in card widgets and can be sorted by, filtered, and searched using their recipe names or ingredients.
+Each recipe card widget can be selected to view a detailed overview of the recipe that contains the ingredients, picture, link to source, instructions, nutritional facts and tags.
+A randomizer feature is also included to spin a wheel that contains all stored recipes, a random recipe is selected.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
